@@ -135,8 +135,8 @@ body{
 
 .lista___link a {
     font-size: 1rem;
-    color: var(--branco-principal); /* Aplica a cor branca */
-    text-decoration: none; /* Remove o sublinhado */
+    color: var(--branco-principal); 
+    text-decoration: none; 
 }
 
 .lista___link a:hover {
